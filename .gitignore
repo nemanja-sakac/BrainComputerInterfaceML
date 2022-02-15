@@ -1,6 +1,6 @@
 # Ignore the binaries, images and eegtoolkit library
 \bin
-!*\doc\project_report_serbian.pdf
+!\doc\project_report_serbian.pdf
 \+eegtoolkit
 \data
 \img
