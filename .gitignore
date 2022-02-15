@@ -1,0 +1,7 @@
+# Ignore the binaries, images and eegtoolkit library
+\bin
+\doc
+\+eegtoolkit
+\data
+\img
+*.zip
